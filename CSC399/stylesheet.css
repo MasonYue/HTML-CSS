@@ -1,0 +1,32 @@
+
+colors:
+- link: #3399FF
+- hovered link: #E9F6FB
+- visited link: #25BA2A
+- translucency: rgba(255, 255, 255, 0.9)
+
+body{
+	font-family: "Avenir", sans-serif;
+	font-size: 16px;
+	margin: 0 auto;
+	width: 1020px;
+	padding: 0px 20px;
+	line-height: 1.6;
+	cursor: default;
+}
+
+.nav-button:link{
+	color: #3399FF
+  
+}
+
+.nav-button:visited{
+	color:#25BA2A
+}
+
+.nav-button:hover{
+	color: #E9F6FB
+}
+
+
+
